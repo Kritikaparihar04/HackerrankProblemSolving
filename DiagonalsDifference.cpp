@@ -9,6 +9,7 @@ int main()
     cin>>n;   
     cout<<"Please enter the Mattrix :\n";
 
+ 
 //enter the elements in the matrix
     for(int i=0;i<n;i++)
       {
